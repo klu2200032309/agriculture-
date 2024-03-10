@@ -1,0 +1,12 @@
+{
+  "name": "fullstack-foodies-1",
+  "version": "1.0.0",
+  "description": "Welcome to our GitHub repository! Here, you'll find the code for our innovative groceries e-commerce website, `Foodies Paradise` designed to provide a seamless and convenient shopping experience for all your grocery needs. Join us as we revolutionize the way you shop for groceries online. 🚀🎯",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
